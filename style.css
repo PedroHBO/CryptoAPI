@@ -1,0 +1,14 @@
+body {
+    font-family: Tourney;
+    font-size: 14px;
+    background-color:grey;
+}
+.media{
+    color: black;
+}
+
+.img{
+    border-radius: 10%;
+    border: black solid 2px;  
+    margin-right: 20px;
+}
