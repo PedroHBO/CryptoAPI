@@ -10,5 +10,9 @@ Após finalizar as aulas, Foi adicionado uma nova informação, sendo ela, o pri
 
 ![CryptoAPI](https://user-images.githubusercontent.com/66649954/124952008-42bdac00-dfea-11eb-87aa-181052ff94b1.png)
 
+PS: É necessario ter a extensão `Moesif Origin` baixado no chrome.
 
+Link da extensão: [Moesif Origin](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc "Moesif Origin").
+
+Replicando o código, é necessario adicionar a sua key para acessar a API alterando o 'xxxxxxxx' no ` yourKey` pelo seu.
 **Lets Bora!**

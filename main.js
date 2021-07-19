@@ -1,4 +1,5 @@
-fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY=4c053ebe-8d25-495d-b9e0-df929426c540')
+const yourKey ='xxxxxxxxxxxxxx'
+fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY=' + yourKey)
     .then((response) => {
         if (!response.ok) throw new Error('Erro ao executar a requisição, status ', response.status);
         return response.json();
