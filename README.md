@@ -15,4 +15,4 @@ PS: É necessario ter a extensão `Moesif Origin` baixado no chrome.
 Link da extensão: [Moesif Origin](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc "Moesif Origin").
 
 Replicando o código, é necessario adicionar a sua key para acessar a API alterando o 'xxxxxxxx' no ` yourKey` pelo seu.
-**Lets Bora!**
+**Avante DEV!**
